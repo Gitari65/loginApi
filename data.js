@@ -1,0 +1,13 @@
+article=[{
+    authorName:"Jane",
+    articleTitle:"Health",
+    date:"20/3/2022",
+    password:"12345"
+},{
+    authorName:"Shawn",
+    articleTitle:"Sports",
+    date:"1/5/2022" 
+    ,
+    password:"12345" 
+}]
+module.exports=article
